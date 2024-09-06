@@ -5,6 +5,8 @@ The **MIsmA TIS 1.0** is a sophisticated control board designed to manage two Tr
 <img src="/Printed Board/PCB.jpg" width="533" height="400">
 
 ## System Architecture
+Architecture Diagram
+<img src="/Diagrams/Architectural_Diagram.jpg" width="768" height="432">
 
 ### 1. Microcontroller Unit (MCU)
 - **Model**: `TMS320F28379D`
@@ -28,3 +30,6 @@ The **MIsmA TIS 1.0** is a sophisticated control board designed to manage two Tr
 ### 6. Development Software
 - **PCB Design**: `Altium Designer`
 - **Firmware**: `Code Composer Studio`
+- 
+### 7. Final System Setup
+<img src="/Diagrams/Architectural_Diagram.jpg" width="1176" height="662">
