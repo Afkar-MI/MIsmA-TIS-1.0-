@@ -32,4 +32,4 @@ Architecture Diagram
 - **Firmware**: `Code Composer Studio`
 - 
 ### 7. Final System Setup
-<img src="/Diagrams/Architectural_Diagram.jpg" width="1176" height="662">
+<img src="/Printed Board/System setup.jpg" width="1176" height="662">
