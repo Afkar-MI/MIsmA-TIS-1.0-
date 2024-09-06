@@ -2,7 +2,7 @@
 
 The **MIsmA TIS 1.0** is a sophisticated control board designed to manage two Transmissive Reconfigurable Intelligent Surfaces (RIS) simultaneously. Each RIS comprises 100-unit cells, requiring precise and independent control.
 
-<img src="/Printed Final Product/Printed_Control board.jpg" width="533" height="400">
+<img src="/Printed Board/PCB.jpg" width="533" height="400">
 
 ## System Architecture
 
